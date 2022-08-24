@@ -1,16 +1,31 @@
-### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!--
-**lukeraig/lukeraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+Hi! I'm Luca 🔮.
 
-Here are some ideas to get you started:
+▶ A passionate Full-Stack/UX/UI student.
++ Living in Argentina. 
++ 23 years old.
+- Studying at Nucba (Full-Stack Bootcamp).
+- Studying at Alura ONE (Intensive coding bootcamp).
+```
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="200" width="246" src="https://media.giphy.com/media/KE5Wi6aSESsjVpO6vg/giphy.gif"/>
+
+```diff
+💠 My skills:
+
++ Tech-Stack:
+# 🔹 HTML, CSS, SASS, Bootstrap, JavaScript.
+- Other tools:
+# 🔸 Figma, Trello, Canva, Photoshop.
+```
+------
+
+<a href="https://www.linkedin.com/in/luca-cuello41/" target="_blank">
+<img align="left" height="45" width="45" src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif"/>
+</a>
+<a href="https://twitter.com/Lucaturgueniev" target="_blank">
+<img align="left" height="45" width="45" src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif"/>
+</a>
