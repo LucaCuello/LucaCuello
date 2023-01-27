@@ -12,5 +12,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=LucaCuello&theme=dracula&hide_border=true&include_all_commits=false&count_private=true">
 </p>
 <p align="center">
+    <img src="./giphy.gif" width=200>
+</p>
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaCuello&theme=dracula&hide_border=true">
 </p>
