@@ -7,6 +7,6 @@
 <!-- Center aligned divs to center the child image -->
 
 <div style="display:flex;" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=LucaCuello&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width=380>
-      <img src="https://github-readme-stats.vercel.app/api?username=LucaCuello&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width=380>
+      <img src="https://github-readme-stats.vercel.app/api?username=LucaCuello&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width=390>
+      <img src="https://github-readme-stats.vercel.app/api?username=LucaCuello&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width=390>
 </div>
